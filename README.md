@@ -15,5 +15,25 @@ Make sure to assemble all files in the directory before running the program
 ![RARS configuration](./imgs/rars.png)
 
 ### Example results:
-![Result1 RISC-V](./imgs/result.bmp)    ![Result2 RISC-V](./imgs/result_black_on_white.bmp)
+![Result1 RISC-V](./imgs/result_riscv_black.bmp)    ![Result2 RISC-V](./imgs/result_riscv_white.bmp)
 
+## x86
+1. Install prerequisites (for Ubuntu):
+    ```
+    sudo apt install gcc gcc-multilib nasm make
+    ```
+2. Compile program
+    ```
+    make all
+    ```
+3. Run program
+    ```
+    ./dline
+    ```
+4. Clean up
+    ```
+    make clean
+    ```
+
+### Example results:
+![Result1 x86](./imgs/result_x86_black.bmp)    ![Result2 x86](./imgs/result_x86_white.bmp)
