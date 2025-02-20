@@ -10,7 +10,7 @@ It was written in the second semester (2023L) as a project for the course *Compu
 ## RISC-V
 Program can be launched in [RARS](https://github.com/TheThirdOne/rars) simulator.
 
-Make sure to assemble all files in the directory before running the program
+Make sure to assemble all files in the directory before running the program (check *Assemble all files in directory* option in Settings menu).
 
 ![RARS configuration](./imgs/rars.png)
 
@@ -18,7 +18,8 @@ Make sure to assemble all files in the directory before running the program
 ![Result1 RISC-V](./imgs/result_riscv_black.bmp)    ![Result2 RISC-V](./imgs/result_riscv_white.bmp)
 
 ## x86
-1. Install prerequisites (for Ubuntu):
+For both x86-32 and x86-64, steps to run the program are the same:
+1. Install prerequisites (for Ubuntu)
     ```
     sudo apt install gcc gcc-multilib nasm make
     ```
