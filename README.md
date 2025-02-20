@@ -15,6 +15,5 @@ Make sure to assemble all files in the directory before running the program
 ![RARS configuration](./imgs/rars.png)
 
 ### Example results:
-![Result1 RISC-V](./imgs/result.bmp)
+![Result1 RISC-V](./imgs/result.bmp)    ![Result2 RISC-V](./imgs/result_black_on_white.bmp)
 
-![Result2 RISC-V](./imgs/result_black_on_white.bmp)
