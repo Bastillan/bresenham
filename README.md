@@ -1,6 +1,6 @@
 # bresenham
 ## Description
-`Assembly` implementation of **Bresenham's line algorithm** for different platforms:
+`Assembly` implementation of **Bresenham's line drawing algorithm** for different platforms:
 - `RISC-V`
 - `x86-32`
 - `x86-64`
